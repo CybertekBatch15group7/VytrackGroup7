@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e3763b-8e15-4ddd-b25d-76478c046d8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TestFile.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +46,25 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="TestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TestFile" />
+      <module name="VytrackGroup7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.TestFile" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -94,5 +102,33 @@
     </state>
     <state x="552" y="238" key="#Project_Structure/0.0.1920.1160/1920.303.1366.728@0.0.1920.1160" timestamp="1585881460822" />
     <state x="2313" y="348" key="#Project_Structure/0.0.1920.1160/1920.303.1366.728@1920.303.1366.728" timestamp="1585881663980" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586209294584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1586209294584" />
+    <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1586209292443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1586209292443" />
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1586209938400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586209938400" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586209426831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586209426831" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586209426831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586209426831" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586209426831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586209426831" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586209426831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586209426831" />
   </component>
 </project>
